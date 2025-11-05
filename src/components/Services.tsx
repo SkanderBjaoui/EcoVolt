@@ -7,7 +7,7 @@ import { motion } from "motion/react";
 const residentialPlans = [
   {
     name: "Starter",
-    price: "$19",
+    price: "TND 19",
     period: "month",
     description: "Perfect for small households",
     features: [
@@ -21,7 +21,7 @@ const residentialPlans = [
   },
   {
     name: "Family",
-    price: "$39",
+    price: "TND 39",
     period: "month",
     description: "Ideal for families",
     features: [
@@ -36,7 +36,7 @@ const residentialPlans = [
   },
   {
     name: "Premium",
-    price: "$69",
+    price: "TND 69",
     period: "month",
     description: "For larger households",
     features: [
